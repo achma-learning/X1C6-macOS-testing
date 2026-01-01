@@ -1,7 +1,7 @@
 # macOS for ThinkPad X1 Carbon 6th Gen [20KG]
 ![X1C6](https://psrefstuff.lenovo.com/syspool//Sys/Image/ThinkPad/ThinkPad_X1_Carbon_6th_Gen/ThinkPad_X1_Carbon_6th_Gen_CT1_09.png)
 
-This project is to give the X1C6 a complete and functional build of macOS Sequoia `15.1` using the guide from  [here](https://github.com/tylernguyen/x1c6-hackintosh) with modified ACPI and updated kexts.
+This project is to give the X1C6 a complete and functional build of macOS Ventura `15.1` using the guide from  [here](https://github.com/tylernguyen/x1c6-hackintosh) with modified ACPI and updated kexts.
 
 Using `MacbookPro15,2` SMBIOS
 
