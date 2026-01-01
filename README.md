@@ -43,3 +43,4 @@ Your laptop may or may not have the exact specs as mine. Results may vary. If yo
 - benbender https://github.com/benbender/x1c6-hackintosh
 - zhtengw https://github.com/zhtengw/EFI-for-X1C6-hackintosh
 - Colton-Ko https://github.com/Colton-Ko/macOS-ThinkPad-X1C6
+- wallpaper credit : https://github.com/anathonous/X1C5-Hackintosh-OpenCore-MacOSX/tree/main/Wallpapers
