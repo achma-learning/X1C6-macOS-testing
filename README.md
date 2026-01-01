@@ -38,6 +38,9 @@ Your laptop may or may not have the exact specs as mine. Results may vary. If yo
 2. disable secure boot in BIOS and better to change this : [Colton's BIOS Settings](https://github.com/Colton-Ko/macOS-ThinkPad-X1C6#uefi-setup-configuration)
 4. Generate SMBIOS for `MacbookPro15,2`
 
+## kext to add
+1. AppleBacklightSmoother.kext , (inspiration)[https://github.com/huyhoang8398/x1c7-hackintosh-20R1#display-trackpad-trackpoint-and-keyboard] 
+
 ## Credits
 - tylernguyen https://github.com/tylernguyen/x1c6-hackintosh
 - benbender https://github.com/benbender/x1c6-hackintosh
