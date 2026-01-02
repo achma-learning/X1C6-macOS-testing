@@ -3,7 +3,13 @@ what to do, easy, download the original repo (Rybo713) as zip, format your usb w
 https://www.youtube.com/watch?v=SSP2z_Vg_ew
 https://www.youtube.com/watch?v=S7neu7Dprl0
 
-what i found it's better to download macOS 13 and then update to macos 14 , in macos15 my pc is run most of time and that understandable as apple intelligence got introduced, maybe a way to reduce it's ressource impact tweak?
+what i found it's better to download macOS 13 and then update to macos 14 , in macos15 i think is a bit heavy on ressource and wait for it to mature, althout it's the before last version of macos intel, is run most of time and that understandable as apple intelligence got introduced, maybe a way to reduce it's ressource impact tweak?
+
+this pc hardware support the macOS26 without OCLP (open core legacy patcher), this version = Tahoe is the final version of macOS that supports Macs with Intel processors
+the end of hackintosh on intel computer?
+
+but based on (open core simplify)[https://github.com/lzhoang2801/OpCore-Simplify], the best version for this pc is macos 13
+
 # macOS for ThinkPad X1 Carbon 6th Gen [20KG]
 ![X1C6](https://psrefstuff.lenovo.com/syspool//Sys/Image/ThinkPad/ThinkPad_X1_Carbon_6th_Gen/ThinkPad_X1_Carbon_6th_Gen_CT1_09.png)
 
