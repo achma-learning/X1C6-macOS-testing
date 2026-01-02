@@ -1,4 +1,4 @@
-what to do, for me it's better to download macOS13 and then upgrade to your desired version of macOS, this what i know, i'm new to hackintosh
+what to do, for me it's better to download macOS13 with this efi file (https://github.com/maa384/x1c6-macOS-13-efi) opencore version 1.0.6 and wifi works without helioport, better for recovery install since this pc doesn't have an ethernet rj45, so better to use wifi in recovery or use usb tethering with android phone, unless you want to buy a docking station (anker is a good option) and then upgrade to your desired version of macOS, this what worked for me i know, i'm new to hackintosh
 download the efi file and mac os 13, here i used airport kext file istead of itlwm so you can use wifi with no problem
 download the original repo (Rybo713) as zip, format your usb with rufus to non bootable and fat32, and delete the two new rufus files inside it, put your efi inside it, and download the macOS image see this guides
 
