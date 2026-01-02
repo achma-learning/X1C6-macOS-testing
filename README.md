@@ -1,4 +1,6 @@
-what to do, easy, download the original repo (Rybo713) as zip, format your usb with rufus to non bootable and fat32, and delete the two new rufus files inside it, put your efi inside it, and download the macOS image see this guides
+what to do, for me it's better to download macOS13 and then upgrade to your desired version of macOS, this what i know, i'm new to hackintosh
+download the efi file and mac os 13, here i used airport kext file istead of itlwm so you can use wifi with no problem
+download the original repo (Rybo713) as zip, format your usb with rufus to non bootable and fat32, and delete the two new rufus files inside it, put your efi inside it, and download the macOS image see this guides
 
 https://www.youtube.com/watch?v=SSP2z_Vg_ew
 https://www.youtube.com/watch?v=S7neu7Dprl0
