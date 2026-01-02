@@ -10,6 +10,8 @@ the end of hackintosh on intel computer?
 
 but based on (open core simplify)[https://github.com/lzhoang2801/OpCore-Simplify], the best version for this pc is macos 13
 
+my notes : https://www.notion.so/achma-learning/macOS-2d97c1c315a480c79e65f1352b1cca04
+
 # macOS for ThinkPad X1 Carbon 6th Gen [20KG]
 ![X1C6](https://psrefstuff.lenovo.com/syspool//Sys/Image/ThinkPad/ThinkPad_X1_Carbon_6th_Gen/ThinkPad_X1_Carbon_6th_Gen_CT1_09.png)
 
