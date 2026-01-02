@@ -1,3 +1,9 @@
+what to do, easy, download the original repo (Rybo713) as zip, format your usb with rufus to non bootable and fat32, and delete the two new rufus files inside it, put your efi inside it, and download the macOS image see this guides
+
+https://www.youtube.com/watch?v=SSP2z_Vg_ew
+https://www.youtube.com/watch?v=S7neu7Dprl0
+
+what i found it's better to download macOS 13 and then update to macos 14 , in macos15 my pc is run most of time and that understandable as apple intelligence got introduced, maybe a way to reduce it's ressource impact tweak?
 # macOS for ThinkPad X1 Carbon 6th Gen [20KG]
 ![X1C6](https://psrefstuff.lenovo.com/syspool//Sys/Image/ThinkPad/ThinkPad_X1_Carbon_6th_Gen/ThinkPad_X1_Carbon_6th_Gen_CT1_09.png)
 
